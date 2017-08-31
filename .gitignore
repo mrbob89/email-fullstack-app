@@ -59,4 +59,4 @@ typings/
 
 # custom
 .idea/
-keys.js
+dev.js
